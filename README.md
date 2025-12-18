@@ -13,6 +13,7 @@ The goal of the project is to practice core data science skills, including data 
 
 ## Dataset
 Public **Online Retail II** dataset from Kaggle.
+https://www.kaggle.com/datasets/lakshmi25npathi/online-retail-dataset
 
 ## Notes
 This project is a learning exercise and will be iteratively expanded with more advanced modeling and features over time.
